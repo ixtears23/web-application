@@ -1,0 +1,5 @@
+### GET LB 요청
+GET http://localhost:65001/lb/client
+
+### POST LB 요청
+POST http://localhost:65001/lb/client
